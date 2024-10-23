@@ -1,4 +1,4 @@
-% Lemonia Dedousi 4348 (ask 1.3)
+
 clear all;
 function s = signalprobs(varargin)
 
